@@ -1,0 +1,4 @@
+Highlands / Germantown
+Lat = 38.231812
+Long = -85.710161
+

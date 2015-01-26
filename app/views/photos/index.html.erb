@@ -1,0 +1,9 @@
+<% @locations.each do | location | %>
+<%= logger.debug("\n\n\n\nVIEWS LOCATION: #{location}") %>
+    <h2><%= location.locname %> - <%= location.id %></h2>
+
+    <% location.pics["data"].each do | pics | %>
+        <img src="<%= pics["images"]["standard_resolution"]["url"] %>"><br>
+    <% end %>
+
+<% end %>

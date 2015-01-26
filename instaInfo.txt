@@ -1,0 +1,4 @@
+CLIENT ID   0c9ae11284a848c08b8552d9ee38bcd9
+CLIENT SECRET   afb40bb6952e45d69a431955a60b7c70
+WEBSITE URL http://localhost
+REDIRECT URI    http://localhost
