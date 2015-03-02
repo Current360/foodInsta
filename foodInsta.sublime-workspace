@@ -375,7 +375,39 @@
 			"file": "app/controllers/photos_controller.rb",
 			"settings":
 			{
-				"buffer_size": 319,
+				"buffer_size": 2998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/deploy/production.rb",
+			"settings":
+			{
+				"buffer_size": 1495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/deploy.rb",
+			"settings":
+			{
+				"buffer_size": 1460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/capistrano/tasks/access_check.rake",
+			"settings":
+			{
+				"buffer_size": 318,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/capistrano/tasks/agent_forwarding.rake",
+			"settings":
+			{
+				"buffer_size": 240,
 				"line_ending": "Unix"
 			}
 		},
@@ -409,6 +441,22 @@
 			"settings":
 			{
 				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jerrodlong/Desktop/rails/kaw/RUBY-DEPLOYMENT-PROCESS.txt",
+			"settings":
+			{
+				"buffer_size": 5667,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.yml",
+			"settings":
+			{
+				"buffer_size": 1612,
 				"line_ending": "Unix"
 			}
 		}
@@ -446,6 +494,9 @@
 	"file_history":
 	[
 		"/Users/jerrodlong/Desktop/rails/foodInsta/Gemfile",
+		"/Users/jerrodlong/Desktop/rails/foodInsta/.gitignore",
+		"/Users/jerrodlong/Desktop/rails/foodInsta/tmp/restart.txt",
+		"/Users/jerrodlong/Desktop/rails/foodInsta/Capfile",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/config/initializers/instagram.rb",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/config/database.yml",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/instaInfo.txt",
@@ -569,10 +620,7 @@
 		"/Users/jerrodlong/Desktop/Sites2/Belle/plugins/nivo-slider/scripts/nivo-slider/nivo-slider.css",
 		"/Users/jerrodlong/Desktop/Sites2/IE/sftp-config.json",
 		"/Users/jerrodlong/Desktop/Sites2/IE/sftp-config-alt.json",
-		"/Users/jerrodlong/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log",
-		"/Users/jerrodlong/Desktop/Sites2/Belle/sftp-config-alt4.json",
-		"/Users/jerrodlong/Desktop/Sites2/Belle/5-30.csv",
-		"/Users/jerrodlong/Desktop/Sites2/Belle/5-20.csv"
+		"/Users/jerrodlong/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log"
 	],
 	"find":
 	{
@@ -735,7 +783,6 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
@@ -743,15 +790,143 @@
 					"file": "app/controllers/photos_controller.rb",
 					"settings":
 					{
-						"buffer_size": 319,
+						"buffer_size": 2998,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								319,
-								319
+								2954,
+								2954
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/deploy/production.rb",
+					"settings":
+					{
+						"buffer_size": 1495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							],
+							[
+								323,
+								323
+							],
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 103.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/deploy.rb",
+					"settings":
+					{
+						"buffer_size": 1460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1130
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 271.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/capistrano/tasks/access_check.rake",
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/capistrano/tasks/agent_forwarding.rake",
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
 							]
 						],
 						"settings":
@@ -770,11 +945,11 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 5,
 					"file": "app/views/photos/index.html.erb",
 					"settings":
 					{
@@ -803,7 +978,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 6,
 					"file": "locations.txt",
 					"settings":
 					{
@@ -822,6 +997,8 @@
 						{
 							"auto_name": "Highlands / Germantown",
 							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -831,7 +1008,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 7,
 					"file": "app/models/location_maker.rb",
 					"settings":
 					{
@@ -862,7 +1039,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 8,
 					"file": "app/models/location.rb",
 					"settings":
 					{
@@ -886,6 +1063,68 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/jerrodlong/Desktop/rails/kaw/RUBY-DEPLOYMENT-PROCESS.txt",
+					"settings":
+					{
+						"buffer_size": 5667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2112.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "config/database.yml",
+					"settings":
+					{
+						"buffer_size": 1612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1612
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
