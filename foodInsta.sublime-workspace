@@ -380,59 +380,10 @@
 			}
 		},
 		{
-			"file": "config/deploy/production.rb",
-			"settings":
-			{
-				"buffer_size": 1495,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/deploy.rb",
-			"settings":
-			{
-				"buffer_size": 1460,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/capistrano/tasks/access_check.rake",
-			"settings":
-			{
-				"buffer_size": 318,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/capistrano/tasks/agent_forwarding.rake",
-			"settings":
-			{
-				"buffer_size": 240,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/photos/index.html.erb",
-			"settings":
-			{
-				"buffer_size": 305,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "locations.txt",
-			"settings":
-			{
-				"buffer_size": 58,
-				"line_ending": "Unix",
-				"name": "Highlands / Germantown"
-			}
-		},
-		{
 			"file": "app/models/location_maker.rb",
 			"settings":
 			{
-				"buffer_size": 599,
+				"buffer_size": 1526,
 				"line_ending": "Unix"
 			}
 		},
@@ -441,22 +392,6 @@
 			"settings":
 			{
 				"buffer_size": 249,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/jerrodlong/Desktop/rails/kaw/RUBY-DEPLOYMENT-PROCESS.txt",
-			"settings":
-			{
-				"buffer_size": 5667,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/database.yml",
-			"settings":
-			{
-				"buffer_size": 1612,
 				"line_ending": "Unix"
 			}
 		}
@@ -493,12 +428,19 @@
 	},
 	"file_history":
 	[
+		"/Users/jerrodlong/Desktop/rails/foodInsta/config/database.yml",
+		"/Users/jerrodlong/Desktop/rails/kaw/RUBY-DEPLOYMENT-PROCESS.txt",
+		"/Users/jerrodlong/Desktop/rails/foodInsta/app/views/photos/index.html.erb",
+		"/Users/jerrodlong/Desktop/rails/foodInsta/locations.txt",
+		"/Users/jerrodlong/Desktop/rails/foodInsta/config/deploy/production.rb",
+		"/Users/jerrodlong/Desktop/rails/foodInsta/config/deploy.rb",
+		"/Users/jerrodlong/Desktop/rails/foodInsta/lib/capistrano/tasks/access_check.rake",
+		"/Users/jerrodlong/Desktop/rails/foodInsta/lib/capistrano/tasks/agent_forwarding.rake",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/Gemfile",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/.gitignore",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/tmp/restart.txt",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/Capfile",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/config/initializers/instagram.rb",
-		"/Users/jerrodlong/Desktop/rails/foodInsta/config/database.yml",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/instaInfo.txt",
 		"/Users/jerrodlong/Desktop/rails/foodInsta/config/routes.rb",
 		"/Users/jerrodlong/Desktop/sites/AllDayWay/alldayway/wp-content/themes/boilerplate/header.php",
@@ -613,14 +555,7 @@
 		"/Users/jerrodlong/Desktop/Sites2/Belle/sftp-config-alt6.json",
 		"/Users/jerrodlong/Desktop/Sites2/Belle/cruises-harry-had-me-remove-for-now.txt",
 		"/Users/jerrodlong/Desktop/Sites2/Belle/sftp-config-alt5.json",
-		"/Users/jerrodlong/Desktop/Sites2/Belle/sidebar-footer.php",
-		"/Users/jerrodlong/Desktop/Sites2/IE/footer.php",
-		"/Users/jerrodlong/Desktop/Sites2/Belle/7-11.csv",
-		"/Users/jerrodlong/Desktop/Sites2/Belle/6-18.csv",
-		"/Users/jerrodlong/Desktop/Sites2/Belle/plugins/nivo-slider/scripts/nivo-slider/nivo-slider.css",
-		"/Users/jerrodlong/Desktop/Sites2/IE/sftp-config.json",
-		"/Users/jerrodlong/Desktop/Sites2/IE/sftp-config-alt.json",
-		"/Users/jerrodlong/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log"
+		"/Users/jerrodlong/Desktop/Sites2/Belle/sidebar-footer.php"
 	],
 	"find":
 	{
@@ -783,6 +718,7 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -811,133 +747,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "config/deploy/production.rb",
-					"settings":
-					{
-						"buffer_size": 1495,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								280,
-								280
-							],
-							[
-								323,
-								323
-							],
-							[
-								366,
-								366
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 103.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "config/deploy.rb",
-					"settings":
-					{
-						"buffer_size": 1460,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1130,
-								1130
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 271.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "lib/capistrano/tasks/access_check.rake",
-					"settings":
-					{
-						"buffer_size": 318,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								318,
-								318
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "lib/capistrano/tasks/agent_forwarding.rake",
-					"settings":
-					{
-						"buffer_size": 240,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								240,
-								240
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 255.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -945,82 +755,23 @@
 			]
 		},
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 5,
-					"file": "app/views/photos/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 305,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								280,
-								280
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "locations.txt",
-					"settings":
-					{
-						"buffer_size": 58,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								46,
-								56
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Highlands / Germantown",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
+					"buffer": 1,
 					"file": "app/models/location_maker.rb",
 					"settings":
 					{
-						"buffer_size": 599,
+						"buffer_size": 1526,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								119,
-								119
+								1310,
+								1310
 							]
 						],
 						"settings":
@@ -1033,13 +784,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 983.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 2,
 					"file": "app/models/location.rb",
 					"settings":
 					{
@@ -1063,68 +814,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/Users/jerrodlong/Desktop/rails/kaw/RUBY-DEPLOYMENT-PROCESS.txt",
-					"settings":
-					{
-						"buffer_size": 5667,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2112.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "config/database.yml",
-					"settings":
-					{
-						"buffer_size": 1612,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								1612
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 13.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
